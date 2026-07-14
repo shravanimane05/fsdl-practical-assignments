@@ -1,17 +1,17 @@
 # Assignment 01
 
 ## Aim
-To create a static web page that demonstrates all HTML text formatting tags in a tabular format.
+To create a static web page that demonstrates the use of various HTML text formatting tags in a well-organized tabular format.
 
 ## Technologies Used
-- HTML
+- HTML5
 
 ## Steps Performed
-1. Created the HTML structure.
-2. Added a table to display different HTML text formatting tags.
-3. Implemented examples for each formatting tag.
-4. Tested the webpage in a web browser.
-5. Captured output screenshots.
+1. Created the basic HTML document structure.
+2. Designed a table to organize different HTML text formatting tags.
+3. Added examples demonstrating the functionality of each formatting tag.
+4. Verified the webpage output in a web browser.
+5. Captured screenshots of the final output.
 
 ## Output
-The webpage successfully displays all HTML text formatting tags in a tabular format. Output screenshots are available in the `output-screenshots` folder.
+The webpage successfully displays all commonly used HTML text formatting tags in a clear tabular format with examples. Output screenshots are available in the `output-screenshots` folder.
