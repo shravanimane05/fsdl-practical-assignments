@@ -2,11 +2,11 @@
 
 ## Student Details
 
-**Name:** shravani Sanjay Mane
+**Name:** Shravani Sanjay Mane  
 **Roll No.:** 123B1B018  
 **Class:** B.Tech Computer Engineering  
 **Semester:** VII  
-**Division:** YA 
+**Division:** A  
 **Subject:** Full Stack Development Lab (FSDL)
 
 ---
@@ -35,18 +35,20 @@ Develop an Attendance Management and Warning Letter Generation System using Reac
 
 ## Hosted Website Link
 
-**Live Website:** Add your GitHub Pages URL after deployment.
+**Live Website:**  
+Add your GitHub Pages URL after deployment.
 
-Example:  
+**Example:**  
 https://your-username.github.io/fsdl-practical-assignments/
 
 ---
 
 ## Repository Link
 
-**GitHub Repository:** Add your repository link.
+**GitHub Repository:**  
+Add your repository link.
 
-Example:  
+**Example:**  
 https://github.com/your-username/fsdl-practical-assignments
 
 ---
@@ -94,7 +96,8 @@ fsdl-practical-assignments/
 
 ## Author
 
-**Pranjal Lipne**  
-B.Tech Computer Engineering  
-Semester VII  
-Full Stack Development Lab (FSDL)
+**Name:** Shravani Sanjay Mane  
+**Class:** B.Tech Computer Engineering  
+**Semester:** VII  
+**Division:** A  
+**Subject:** Full Stack Development Lab (FSDL)
