@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e883d499-e98c-4fc3-aac6-7fcf96520bc9" /># FSDL Practical Assignments
+# FSDL Practical Assignments
 
 ## Student Details
 
