@@ -1,0 +1,5 @@
+{
+  "name": "AttendancePortal",
+  "description": "A system for teachers to upload attendance Excel sheets, identify students with low attendance, and generate warning letters.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker MERN",
+  "description": "A comprehensive full-stack expense and income tracker with dashboard, charts, and Excel reports.",
+  "requestFramePermissions": []
+}

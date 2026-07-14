@@ -1,0 +1,70 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+
+.img-wrapper {
+    height: 300px;
+    overflow: hidden;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    position: relative;
+}
+
+.wishlist-icon {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: white;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    z-index: 10;
+}
+
+.wishlist-icon:hover {
+    background: #ff4d4d;
+    color: white;
+}
+
+.card-img-top {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: transform 0.4s ease;
+}
+
+.product-card {
+    transition: 0.3s ease;
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    background: #fff;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.1) !important;
+}
+
+.offcanvas { width: 420px !important; }
+
+@media (max-width: 576px) {
+    .img-wrapper { height: 200px; }
+    .offcanvas { width: 100% !important; }
+}
