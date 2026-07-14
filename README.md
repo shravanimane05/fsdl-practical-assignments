@@ -1,4 +1,4 @@
-# FSDL Practical Assignments
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/e883d499-e98c-4fc3-aac6-7fcf96520bc9" /># FSDL Practical Assignments
 
 ## Student Details
 
@@ -36,20 +36,14 @@ Develop an Attendance Management and Warning Letter Generation System using Reac
 ## Hosted Website Link
 
 **Live Website:**  
-Add your GitHub Pages URL after deployment.
-
-**Example:**  
-https://your-username.github.io/fsdl-practical-assignments/
+https://shravanimane05.github.io/fsdl-practical-assignments/
 
 ---
 
 ## Repository Link
 
-**GitHub Repository:**  
-Add your repository link.
-
-**Example:**  
-https://github.com/your-username/fsdl-practical-assignments
+**GitHub Repository:** 
+https://github.com/shravanimane05/fsdl-practical-assignments.git
 
 ---
 
